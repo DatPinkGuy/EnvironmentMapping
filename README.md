@@ -12,5 +12,5 @@ Main Features:
 5. [Methods](https://github.com/DatPinkGuy/EnvironmentMapping/blob/b03e03e38c31d151c0defbd20a924e929caded99/EnvironmentMappingARVR/Assets/Alex/Scripts/SyncPosition.cs#L27) to allow user for manual position synchronization in VR.<br/><br/>
 
 
-Video on how this project works can be found below:<br/>
+Video on how this project works can be found below: *(Click on Image)*<br/>
 [![Video](https://img.youtube.com/vi/IUi1OBRkUDs/0.jpg)](https://youtu.be/IUi1OBRkUDs)
